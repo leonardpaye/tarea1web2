@@ -1,0 +1,139 @@
+#casa{width: 800px;height: 1200px;
+    background-color: rgb(255, 150, 12);
+    position: relative;
+    border-radius: 25px;
+    border: solid 5px red;
+    left: 100px;
+    margin: 20px;}
+
+#title{margin: 30px;
+    text-align: center;
+    width: 90%;
+    height: 50px;
+    background-color: rgb(167, 167, 167);
+    position: relative;
+    top: 30px;
+    border-radius: 20px;}
+
+#orejaizq{
+    width: 150px;
+    height: 150px;
+    border-radius: 100px;
+    background-color: #000000;
+    display: inline-block;
+    position: relative;
+    left: 200px;
+    top: 100px;
+    
+}
+#orejader{
+    width: 150px;
+    height: 150px;
+    border-radius: 100px;
+    background-color: #000000;
+    display: inline-block;
+    position: relative;
+    left: 200px;
+    top: 100px;
+}
+
+#cabeza{
+    width: 800px;
+    height: 800px;
+    border-radius: 100px;
+    background-color: #ffffff;
+    position: relative;
+    border: solid 5px black;
+    left: 250px;
+}
+#manoder{
+    width: 150px;
+    height: 250px;
+    border-radius:150px ;
+    background-color: black;
+    transform: rotate(45deg);
+    display: inline-block;
+    position: relative;
+    top: 5px;
+    left: 150px;
+}
+#manoizq{
+    width: 150px;
+    height: 250px;
+    border-radius:150px ;
+    background-color: black;
+    transform: rotate(135deg);
+    display: inline-block;
+    position: relative;
+    top: 5px;
+    left: 50px;
+    
+}
+
+
+#pieizq{
+    width: 150px;
+    height: 250px;
+    border-radius:150px ;
+    background-color: rgb(0, 0, 0);
+    transform: rotate(90deg);
+    display: inline-block;
+    position: relative;
+    left: 50px;
+    top: 300px;
+}
+#pieder{
+    width: 150px;
+    height: 250px;
+    border-radius:150px ;
+    background-color:rgb(0, 0, 0);
+    transform: rotate(90deg);
+    display: inline-block;
+    position: relative;
+    left: 5px;
+    top: 50px;
+}
+
+#panza{
+    width: 500px;
+    height: 500px;
+    border-radius: 300px;
+    background-color: #ffffff;
+    position: relative;
+    left: 100px;
+border: solid 10px black;} 
+#cabeza{
+            width: 200px;
+            height: 200px;
+            border-radius: 100px;}
+
+#ojod{
+    width: 30px;
+    height: 30px;
+    border-radius: 30px;
+    background-color: black;
+    display: inline-block;
+    position: relative;
+    top: 71px;
+    left: 49px;
+
+}
+#ojoi{
+    width: 30px;
+    height: 30px;
+    border-radius: 300px;
+    background-color: black;
+    position: relative;
+    top: 2px;
+    margin: 36px;
+    left: 80px;;
+}
+#boca{
+    width: 60px;
+    height: 60px;
+    border-radius: 60px;
+    background-color: black;
+    position: relative;
+    top: -45px;
+    margin: 55px;
+    left: 12px;}
